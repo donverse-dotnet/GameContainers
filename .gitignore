@@ -1,0 +1,6 @@
+# Python ignore list
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyclass
